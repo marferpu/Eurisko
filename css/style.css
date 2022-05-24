@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital@1&family=Lora:ital,wght@1,700&family=Patrick+Hand&family=Roboto:wght@300;500&display=swap');
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+
+/* CSS rules to specify families
+
+font-family: 'Alegreya', serif;
+font-family: 'Lora', serif;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Roboto', sans-serif;	*/
+
+body {
+	font-family: 'Alegreya', serif;
+	font-size: 18px;
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}

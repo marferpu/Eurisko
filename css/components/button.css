@@ -1,0 +1,10 @@
+.btn-purple {
+	background-color: rgb(109, 120, 229);
+	color: white;
+	padding: 8px 20px;
+	border-radius: 4px;
+	margin: 80px auto;
+	margin-top: 20px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+}
